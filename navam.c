@@ -1,11 +1,11 @@
 #include<stdio.h>
-#include<conio.h>
 int main() {
-    int i = 0;
-    while(i <= 256) {
-        printf("Character linked with %d is: %c\n",i,i);
-        i += 1;
-    }
-    printf("Press any key to continue...");
-    getch();
+    int a , b;
+    printf("Enter a: ");
+    scanf("%d",&a);
+    printf("\nEnter b: ",b);
+    scanf("%d",&b);
+    
+    printf("Final sum is %d",a+b);
+    return 0;
 }
