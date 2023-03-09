@@ -1,0 +1,20 @@
+1. Rep
+2. Rep files 
+mkdir
+cd
+cat>>
+cat Ls
+git status
+git log
+3. github.com allowed
+4. git config email,username
+5. git add $name
+6. git commit -m
+7. git branch
+8. git branch branchname
+->Ls
+->file1
+9. git checkout branchname
+10. git branch -m branchname
+11. git branch -d name
+12. git branch -D name (Force Delete)
